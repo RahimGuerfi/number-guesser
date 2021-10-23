@@ -1,5 +1,11 @@
 # Codecademy Number Guesser Project
 
+## Table of contents
+* [Project Goals](#project-goals)
+* [Built with](#built-with)
+* [How to play](#how-to-play)
+* [Challenges and Credits](#challenges-and-credits)
+
 ## Project Goals
 In this project, you’ll write JavaScript functions to power a small guessing game. Your code will run in the browser instead of just the terminal, but you have an output section to help you test your functions and show you if you have syntax errors.
 
